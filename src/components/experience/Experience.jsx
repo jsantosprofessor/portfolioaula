@@ -16,7 +16,7 @@ const Experience = () => {
                 <BsFillCheckCircleFill className="experience__details-icon" />
                 <h5>HTML5</h5>
               </div>
-              <progress value="90" max="100">
+              <progress value="100" max="100">
                 95%
               </progress>
             </article>

@@ -2,7 +2,7 @@ import React from 'react'
 import Typical from 'react-typical'
 import './header.css'
 import CTA from './CTA'
-import ME from '../../assets/me.webp'
+import ME from '../../assets/img.jpg'
 import SocialIcons from '../socialicons/SocialIcons'
 
 export default function Header() {
@@ -10,26 +10,26 @@ export default function Header() {
     <header>
       <div className="container header__container">
         <h5 className='text-light'>Olá, meu nome é </h5>
-        <h1 className='text-light'>André Tavares</h1>
+        <h1 className='text-light'>Jefferson dos Santos</h1>
         {" "}
         <h3 className="mono text-light">
           <Typical
             loop={Infinity}
             steps={[
               "Criação, Dev. e Hospedagem de Sites 🌐",
-              1000,
+              3000,
               "Front-End Dev. 💻",
-              1000,
+              3000,
               "Projetos, UX|UI Design 🎨",
-              1000,
+              3000,
               "EAD & Design Instrucional 👨‍🏫",
-              1000,
+              3000,
               "SEO & Otimização de Wordpress 🔎",
-              1000,
+              3000,
               "Estratégias Digitais 🎯",
-              1000,
+              3000,
               "Mountainbike 🚴‍♂️",
-              1000,
+              3000,
               ]}
             />
         </h3>

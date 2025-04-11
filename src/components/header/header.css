@@ -41,7 +41,7 @@ header {
 /* Picture */
 .me {
     width: 30rem;
-    height: 30rem;
+    height: 40rem;
     position: absolute;
     left: calc(50% - 15rem);
     margin-top:4rem;
